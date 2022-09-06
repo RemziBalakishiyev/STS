@@ -31,9 +31,9 @@
             ],
 
             "scripts": [
-              "./node_modules/jquery/dist/jquery.js",
               "src/assets/plugins/common/common.min.js",
-              "src/assets/js/custom.min.js"
+              "src/assets/js/custom.min.js",
+              "./node_modules/jquery/dist/jquery.js"
             ]
           },
           "configurations": {

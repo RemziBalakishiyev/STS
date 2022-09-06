@@ -1,18 +1,10 @@
 @import "partial/color";
 @import "partial/mixin";
-<<<<<<< HEAD
-@import "partial/palette";
+
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-=======
-
-body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
->>>>>>> dbd1730f3581ddd0bf3e2a9269372ff8a6a83dce
 }
 ::ng-deep {
   input.mat-input-element {
